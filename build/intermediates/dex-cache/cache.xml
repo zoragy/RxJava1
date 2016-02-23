@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/domain/build/libs/domain.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3fa9f7a07a7931c7c944d687bd73306374ccf106">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/domain-d3cb432c1951614737fcdc576bfde45ac518fd95.jar" />
+    </item>
+    <item
+        jar="/home/dev3/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/rxjava-1.0.14-0304dcbcbf79d904d2d8e7034bdb9cb97648c9b5.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/classes-ff95efe6a36645e9ebd133463cb80beb1e71b2ec.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/jacocoagent-b8a1ae6abaeaa2d0a0e6ea1c9452fbcfdbfb6c2f.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/exploded-aar/RestAPIParseAuthCleanAndroid-master/data/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5ddb52d119ee124439beef4139dd72a31a95029">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/classes-41dc11d1855e526c5bea21cda410fb8d474f739f.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/pre-dexed/debug/classes-3aeb7c4cdf6d37982119633851e2d18742d881cf.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/pre-dexed/debug/jacocoagent-bdad1718e46800b863a64614439f818b34cecb61.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/classes-3066be0a4000362b343e34daf4da7f673709edd0.jar" />
+    </item>
+    <item
+        jar="/home/dev3/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/gson-2.3.1-25dacf167ef72883de1394bf27d90cd707d30541.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/classes-b9f3214726a67d659bc7b071ce822f0421e331f5.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/pre-dexed/debug/classes-0c1328202b770fbd0c5f315df0c787f65accc0d4.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-e84c613008617a474732f36d51263b62cba36326.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RxJava/domain/build/libs/domain.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0254a609706742aa09add4a67218e205e5fe4c21">
+        <dex dex="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/pre-dexed/debug/domain-55970b96827e483cf48c37720dc8b9b161caf023.jar" />
+    </item>
+    <item
+        jar="/home/dev3/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/javax.inject-1-6644b149eec1b59175ad1a91ae664e4aab8f4ccb.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/exploded-aar/RxJava/data/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a8cc1a80f2a80413d9172c2ff7f79660ebf24050">
+        <dex dex="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/pre-dexed/debug/classes-6c21e5cdb741f52c45bdb49561c56c34d41eb97c.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/home/dev3/AndroidStudioProjects/RxJava/presentation/build/intermediates/pre-dexed/debug/classes-6d0dc01812613c90fa3909e7cc5c7cd2663bdb5f.jar" />
+    </item>
+    <item
+        jar="/home/dev3/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/retrofit-1.9.0-6a1921c89416dd4cf3f7091df4f781688db6420d.jar" />
+    </item>
+    <item
+        jar="/home/dev3/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.3.2/7d6149d856b880bbd676047aacb8446a758fbbdb/androidannotations-api-3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/androidannotations-api-3.3.2-b563a1a386d52847e630f3af780ee1a609d31708.jar" />
+    </item>
+    <item
+        jar="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-16cd4ee9665d214ea4eeb995485fa1c8cba52836.jar" />
+    </item>
+    <item
+        jar="/home/dev3/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-552c18000735946e54e41a04ac08b48f416573c9.jar" />
+    </item>
+    <item
+        jar="/home/dev3/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.1/1261dfca5bae89a866a2855552da26feab7f8fad/dagger-2.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1261dfca5bae89a866a2855552da26feab7f8fad">
+        <dex dex="/home/dev3/AndroidStudioProjects/RestAPIParseAuthCleanAndroid-master/presentation/build/intermediates/pre-dexed/debug/dagger-2.0.1-3ef855ba2edf3c9c370aa3b19444f744dfea7f0f.jar" />
+    </item>
+
+</items>
